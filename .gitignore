@@ -1,3 +1,1 @@
-core/storage/blade
-core/storage/bootstrap
-core/storage/cache
+core/storage/**
