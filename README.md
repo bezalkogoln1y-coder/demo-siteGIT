@@ -6,7 +6,7 @@
         * Дериктория должная быть обязательно пустая, чтобы не было конфликтов с composer
 2. Устанавливаем сам движок (в командной строке)
     * Команда **php install/cli-install.php [параметры]**
-    * Например: **php install/cli-install.php --database_server=localhost --database=DB --database_user=USER --database_password=PASS --table_prefix=evo_ --cmsadmin=admin --cmsadminemail=EMAIL--cmspassword=PASS --language=en --mode=new --installData=y --removeInstall=y**
+    * Например: **php install/cli-install.php --database_server=localhost --database=DB --database_user=USER --database_password=PASS --cmsadmin=admin --cmsadminemail=email@email.ru --cmspassword=password --language=ru --mode=new --installData=n --removeInstall=y**
         * database_server=localhost (сервер базы данных)
         * database=DB (имя базы данных)
         * database_user=USER (имя пользователя базы данных)
